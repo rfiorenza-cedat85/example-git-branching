@@ -2,7 +2,7 @@ Applicazione Rubrica
 
 Versione: 1.0
 
-Stato: In test interno
+Stato: In test interno ma anche pronto per il rilascio
 
 Funzionalità:
 - Gestione contatti
