@@ -1,0 +1,9 @@
+Applicazione Rubrica
+
+Versione: 1.0
+
+Stato: In sviluppo
+
+Funzionalità:
+- Gestione contatti
+- Ricerca contatti
